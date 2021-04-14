@@ -1,0 +1,15 @@
+get http://demo6676975.mockable.io/Login%3F$employeeid=INC01243
+
+###
+get http://demo6676975.mockable.io/getMenu/Snacks/0
+
+###
+post https://react-food-order-default-rtdb.firebaseio.com/OrderHistory.json
+Content-Type: application/json
+
+{
+    "Amount": 71,
+    "OrderDate": "22/03/2021",
+    "OrderTime": "01:44 AM",
+    "RefNo": "RF744445"
+}

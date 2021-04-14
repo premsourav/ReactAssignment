@@ -1,0 +1,97 @@
+.logo {
+  position: absolute;
+  width: 253px;
+  height: 46px;
+  left: 33px;
+  top: 29px;
+}
+
+.mainLogo {
+  position: absolute;
+  width: 377px;
+  height: 470px;
+  left: 33px;
+  top: 101px;
+}
+
+.rectangle {
+  position: absolute;
+  width: 549px;
+  height: 489px;
+  left: 653px;
+  top: 82px;
+  background: #c4c4c4;
+}
+
+.welcomeText {
+  font-size: 36px;
+  line-height: 42px;
+  color: #000000;
+  margin-left: 38px;
+}
+
+.welcomeSubText {
+  width: 285px;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  margin-left: 38px;
+  color: #000000;
+}
+
+.smallRectangle1 {
+  width: 457px;
+  height: 68px;
+  background: #e7e7e7;
+  border-radius: 15px;
+  margin-left: 40px;
+  margin-top: 35px;
+}
+
+.smallRectangle2 {
+  width: 457px;
+  height: 68px;
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-top: 25px;
+  background: #e7e7e7;
+  border-radius: 15px;
+}
+
+.userImage {
+  width: 45px;
+  height: 38.66px;
+  margin-left: 35px;
+  margin-top: 12px;
+}
+
+.loginBtn {
+  width: 208px;
+  height: 50px;
+  background: #0087d5;
+  margin-left: 165px;
+  margin-top: 55px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.loginBtn:focus {
+  outline: none;
+}
+
+.inputClass {
+  width: 291px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #000000;
+  background: none;
+}
+
+.inputClass:focus {
+  outline: none;
+}

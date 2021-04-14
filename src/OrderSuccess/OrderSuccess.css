@@ -1,0 +1,48 @@
+.card {
+  margin-top: 120px;
+  background: #ec87c0;
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35px;
+}
+
+.thumbsSuccess {
+  height: 135px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.orderedName {
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 35px;
+}
+
+.orderedPrice {
+  position: absolute;
+  margin-left: 24%;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.orderedQuantity {
+  margin-top: 3px;
+  margin-left: 35px;
+  margin-bottom: 12px;
+}
+
+.referenceID {
+  margin-left: 35px;
+  margin-top: 20px;
+}
+
+.totalPayable {
+  font-size: 25px;
+  font-weight: 500;
+  margin-left: 35px;
+  padding-bottom: 15px;
+}
